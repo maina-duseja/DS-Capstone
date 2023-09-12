@@ -28,6 +28,7 @@ Interactive Visual Analysis by creating Dashboard
 Machine Learning Predictive Analysis using Classification Models - Data that was collected until this step were normalized, divided in training and test data sets and evaluated by four different classification models (Logistic Regression, Support Vector Model, Decision Tree & K Nearest Neighbours Model), being the accuracy of each model evaluated using different combinations of parameters.
 
 **Results:**
+
 Space X uses 4 different launch sites.
 
 The first success landing outcome happened in 2015 fiver year after the first launch.
